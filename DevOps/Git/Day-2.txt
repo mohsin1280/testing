@@ -1,0 +1,4 @@
+learn how to add remote repository 
+
+and push changes to remote
+`
